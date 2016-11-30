@@ -11,4 +11,4 @@
 
 <br>27/11/2016: Changed the layout of the footer and updated the text on it.</br>
 
-<br>30/11/2016: Removed the contact informations and set the margins of the body (left and right).</br>
+<br>30/11/2016: Removed the contact informations and set the margins of the body (left and right). Also solved minors issues of the links on git.</br>
