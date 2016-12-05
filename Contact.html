@@ -1,15 +1,22 @@
 <!DOCTYPE html>
 <html>
 
+<!-- Head Start -->
 <head>
     <meta charset="utf-8">
     <title>Contact</title>
     <link rel="stylesheet" href="css/style.css">
+    <!-- Google Fonts, https://fonts.google.com -->
     <link href="https://fonts.googleapis.com/css?family=Poiret+One" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Passion+One" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Josefin+Sans" rel="stylesheet">
+</head>
+<!-- Head End -->
 
+<!-- Body Start -->
     <body>
+
+      <!-- Header Start -->
       <header>
         <a class="nav-bar" href="index.html">Home</a>
         <a class="nav-bar" href="bio.html">Bio</a>
@@ -18,8 +25,23 @@
         <h1>Miguel Guerreiro</h1>
             <img class="thumbnail-image" src="images/IMG_0031edited.jpg" alt="Miguel Guerreiro" />
       </header>
-        <h3>Contact:</h3>
+      <!-- Header End -->
 
+      <!-- Contact form start, snatched the code from www.w3schools.com -->
+      <div class="Contact-form">
+        <h3>Contact:</h3>
+        <form>
+          First name:<br>
+          <input type="text"><br>
+          Last name:<br>
+          <input type="text" name="lastname"><br><br>
+          <textarea name="Message" rows="8" cols="60"></textarea><br><br>
+          <button type="button" onclick="alert('Your message has been sent!')">Submit</button>
+        </form>
+      <!-- Contact form End -->
+
+        <!-- Footer Start -->
+        </div>
         <div class="footer-div">
         <footer>
           <a class="footer-nav-bar" href="index.html">Home</a>
@@ -29,6 +51,8 @@
         </footer>
         <p class="footer-paragraph">Copyright &copy 2016 - Miguel Guerreiro</p>
         </div>
-    </body>
+        <!-- Footer End -->
 
+    </body>
+<!-- Body End -->
 </html>
