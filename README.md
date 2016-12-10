@@ -14,3 +14,7 @@
 <br>30/11/2016: Removed the contact informations and set the margins of the body (left and right). Also solved minors issues about the links on git.</br>
 
 <br>05/12/2016: Commented all html pages, used Google Material Design to make a shadow under the navigation bar and finally did the contact form. Didn't comment on css yet.<br>
+
+<br>09/12/2016: Did the comments on css, added the hover, added line height and padding to style and changed font sizes (guided myself from Moby's Trip). Still need to start doing Media Queries.</br>
+
+<br>10/12/2016: Changed the image of the homepage, added a shadow box to the footer, structured the image and changed the fonts of h3,h4,h5 and h6.</br>

@@ -1,49 +1,71 @@
+/* Body Styling */
 body {
     font-size: 16px;
-    background: rgb(250, 250, 250);
+    background: rgb(255, 255, 255); /* Background color - white */
     font-family: 'Josefin Sans', sans-serif;
     text-align: left;
     text-decoration-color: rgb(255, 0, 0);
     margin-left: 150px;
     margin-right: 150px;
+    padding: 0.5em;
+    line-height: 22px;
+}
+
+/* Nav-bar and images Styling */
+.homepage-img{
+  width: 700px;
+  height: 500px;
+  margin: 5px;
+  padding: 20px;
+}
+
+.homepage-img-structure{
+  display: flex;
+  justify-content: center;
 }
 
 .thumbnail-image {
     display: flex;
     justify-content: flex-end;
-    top: 18px;
+    top: 35px;
     right: 180px;
     width: 200px;
     height: 200px;
     border-radius: 50%;
     position: absolute;
-    top: 20;
-    right: 20;
-    margin: auto;
+    margin: 5px;
 }
 
 .nav-bar {
     display: flex;
     flex-direction: column;
     text-decoration: none;
-    background-color: rgb(0, 204, 102);
-    color: rgb(255, 255, 255);
+    padding: 7px;
+    background-color: rgb(0, 204, 102); /* Nav bar color - green*/
+    color: rgb(255, 255, 255); /* Font color - white */
     font-size: 25px;
-    box-shadow: 0 15px 15px rgba(0, 0, 0, 0.10), 0 10px 10px rgba(0, 0, 0, 0.05);
+    box-shadow: 0 15px 15px rgba(0, 0, 0, 0.10), 0 10px 10px rgba(0, 0, 0, 0.05); /* Applies a shadow to the bottom of the nav bar, Credit https://codepen.io/sdthornton/pen/wBZdXq */
 }
 
+a:hover{
+  color: black; /* When you place the mouse pointer over the links it changes the font color to black */
+}
+
+/* Styling h1 "Miguel Guerreiro" for the homepage (centered) */
 .index-h1{
   font-family: 'Poiret One', cursive;
   text-align: center;
-  font-size: 55px;
+  font-size: 48px;
+  line-height: 50px;
   display: flex;
   justify-content: center;
 }
-
+/* Styling the Contact Static Form */
 .Contact-form {
   padding: 15px;
 }
 
+/* Footer Styling */
 footer {
     display: flex;
     flex-direction: row;
@@ -60,7 +82,7 @@ footer {
   display: flex;
   flex-direction: row;
   text-decoration: none;
-  color: rgb(255, 255, 255);
+  color: rgb(255, 255, 255); /* Font color - white */
   font-size: 20px;
 }
 
@@ -69,19 +91,21 @@ footer {
   flex-direction: row;
   justify-content: center;
   font-size: 18px;
-  color: rgb(255, 255, 255);
+  color: rgb(255, 255, 255); /* Font color - white */
 }
 
 .footer-div{
-  background-color: rgb(0, 204, 102);
+  background-color: rgb(0, 204, 102); /* Footer bar color - green */
+  box-shadow: 0 15px 15px rgba(0, 0, 0, 0.10), 0 10px 10px rgba(0, 0, 0, 0.05); /* Applies a shadow to the bottom of the nav bar, Credit https://codepen.io/sdthornton/pen/wBZdXq */
 }
 
 
-
+/* Styling Headings */
 h1 {
     font-family: 'Poiret One', cursive;
     text-align: left;
-    font-size: 55px;
+    font-size: 48px;
+    line-height: 50px;
     display: flex;
     justify-content: flex-start;
 }
@@ -89,35 +113,44 @@ h1 {
 h2 {
     font-family: 'Poiret One', cursive;
     text-align: left;
-    font-size: 40px;
+    font-size: 36px;
+    line-height: 45px;
     display: flex;
     justify-content: flex-start;
 }
 
 h3 {
-    font-family: 'Passion One', cursive;
-    font-size: 25px;
+    font-family: 'Roboto Slab', serif;
+    font-size: 28px;
+    line-height: 35px;
     text-align: left;
     display: block;
+    margin: auto;
 }
 
 h4 {
-    font-family: 'Passion One', cursive;
-    font-size: 25px;
+    font-family: 'Roboto Slab', serif;
+    font-size: 28px;
+    line-height: 35px;
     text-align: left;
     display: block;
+    margin: auto;
 }
 
 h5 {
-    font-family: 'Passion One', cursive;
-    font-size: 25px;
+    font-family: 'Roboto Slab', serif;
+    font-size: 28px;
+    line-height: 35px;
     text-align: left;
     display: block;
+    margin: auto;
 }
 
 h6 {
-    font-family: 'Passion One', cursive;
-    font-size: 25px;
+    font-family: 'Roboto Slab', serif;
+    font-size: 28px;
+    line-height: 35px;
     text-align: left;
     display: block;
+    margin: auto;
 }
