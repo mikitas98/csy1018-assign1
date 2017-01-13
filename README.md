@@ -1,11 +1,7 @@
 # csy1018-assign1
 <br>------------------------- Description of my routine work done -------------------------</br>  
 
-<<<<<<< HEAD
 <br>This project took me approximately 30 hours to get it done.</br>
-=======
-<br>This project took me approximately 30 hours.
->>>>>>> b37b3e93de1420506f19035d8bde824d007873c6
 
 <br>18/11/2016: Today I started my CV. Today I wrote some information about me (Contact, Personal Profile), added 4 headings, one thumbnail, fonts and also an image and edited it on html and css(height, top, right, font size,...).</br>
 
@@ -23,10 +19,11 @@
 
 <br>09/12/2016: Did the comments on css, added the hover, added line height and padding to style and changed font sizes (guided myself from Moby's Trip). Still need to start doing Media Queries.</br>
 
-<<<<<<< HEAD
+
 <br>10/12/2016: Changed the image of the homepage, added a shadow box to the footer, structured the image and changed the fonts of h3,h4,h5 and h6.</br>
 
 <br>13/01/2017:Added a Favicon. Finished the assignment.</br>
-=======
+
 <br>10/12/2016: Changed the image of the homepage, added a shadow box to the footer, structured the image and changed the fonts of h3,h4,h5 and h6.Finished the assignment.</br>
->>>>>>> b37b3e93de1420506f19035d8bde824d007873c6
+
+<br>13/01/2017: Added the Favicon, changed the font-size from pixels to em. Finished the assignment.</br>
