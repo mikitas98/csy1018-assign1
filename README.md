@@ -26,3 +26,4 @@
 
 <br>10/12/2016: Changed the image of the homepage, added a shadow box to the footer, structured the image and changed the fonts of h3,h4,h5 and h6.Finished the assignment.</br>
 
+<br>13/01/2017: Added the Favicon. Finished the assignment.</br>
