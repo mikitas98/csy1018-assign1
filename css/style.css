@@ -154,3 +154,8 @@ h6 {
     display: block;
     margin: auto;
 }
+
+icon{
+  height: 16px;
+  width: 16px;
+}
