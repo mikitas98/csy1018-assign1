@@ -1,11 +1,7 @@
 # csy1018-assign1
 <br>------------------------- Description of my routine work done -------------------------</br>  
 
-<<<<<<< HEAD
 <br>This project took me approximately 30 hours to get it done.</br>
-=======
-<br>This project took me approximately 30 hours.
->>>>>>> b37b3e93de1420506f19035d8bde824d007873c6
 
 <br>18/11/2016: Today I started my CV. Today I wrote some information about me (Contact, Personal Profile), added 4 headings, one thumbnail, fonts and also an image and edited it on html and css(height, top, right, font size,...).</br>
 
